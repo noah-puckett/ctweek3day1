@@ -1,0 +1,28 @@
+{
+  "name": "ctweek3day1",
+  "version": "1.0.0",
+  "description": "Challenge lab assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noah-puckett/ctweek3day1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noah-puckett/ctweek3day1/issues"
+  },
+  "homepage": "https://github.com/noah-puckett/ctweek3day1#readme"
+}
