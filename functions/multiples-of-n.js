@@ -1,8 +1,12 @@
 function multiplesOfN(int) {
-
-    
-
-    //return array that has multiples of that number, somehow
+    const arr = [];
+    const upper = 101;
+    for(let i = 0; i < upper; i++) {
+        if(i % int === 0) {
+            arr.push(i);
+        }
+    }
+    return arr;
 }
 
 module.exports = { multiplesOfN };
