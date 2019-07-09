@@ -17,7 +17,7 @@ describe('intersection function tests', () => {
     it('if given arrays with multiples of each number, returns only one of those numbers', () => {
 
         const arr1 = [1, 1, 3, 4, 4, 2];
-        const arr2 = [3, 4, 4, 7, 2, 2];
+        const arr2 = [3, 4, 4, 7, 7, 2, 2];
 
         const expected = [3, 4, 2];
 
